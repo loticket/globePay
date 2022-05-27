@@ -16,7 +16,7 @@
 
     "autoload": {
         "psr-4": {
-            "Loticket\\Globepay\\": "src/globepay/"
+            "Loticket\\": "src/globepay"
         }
 
     }
