@@ -1,0 +1,21 @@
+{
+    "name": "loticket/globepay",
+    "description": "pay on line app",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Loticket\\Globepay\\": "src/globepay"
+        }
+    },
+    "authors": [
+        {
+            "name": "mozi"
+            "email": "429281869@qq.com",
+        }
+    ],
+    "minimum-stability": "stable",
+     "require": {
+        "php": ">=7.3.0"
+    },
+}
